@@ -1,4 +1,4 @@
-## CMPT300 Assignment 2 Submission.
+## Operating Systems I Assignment
 
 This program connects two endpoints using sockets and transmits using the UDP protocol.
 It can be run on any linux system on the same network
